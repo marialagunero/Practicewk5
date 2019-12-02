@@ -11,12 +11,20 @@
   text-decoration: underline;
 }
 
-.btn-left {
+.btn-pink {
     margin: 0 auto;
     display: block;
 }
 
-.btn-right {
+.btn-blue {
     margin: 0 auto;
     display: block;
+}
+
+.blue-background {
+  background-color: blue;
+}
+
+.pink-background {
+  background-color: pink;
 }

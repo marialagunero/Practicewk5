@@ -10,3 +10,13 @@
 .clickable:hover {
   text-decoration: underline;
 }
+
+.btn-left {
+    margin: 0 auto;
+    display: block;
+}
+
+.btn-right {
+    margin: 0 auto;
+    display: block;
+}

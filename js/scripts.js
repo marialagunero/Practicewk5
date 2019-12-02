@@ -3,4 +3,6 @@ $(document).ready(function() {
     $("#initially-showing").toggle();
     $("#initially-hidden").toggle();
   });
+  $("button#blue").click(function(){
+  });
 });

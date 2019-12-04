@@ -11,4 +11,8 @@ $(document).ready(function() {
     $("body").removeClass();
     $("body").addClass("pink-background");
   });
+
+  $("p").click(function(){
+    $( this ).toggleClass( "highlight");
+  });
 });
